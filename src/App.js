@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import AboutUs from "./components/AboutUs";
 import Login from "./components/Login";
 import SignUp from "./components/Signup";
-import { AuthProvider } from "C:\\Users\\user\\Desktop\\vedio_app\\meet-app\\src\\components\\AuthContext.js"; // Import the AuthProvider
+import { AuthProvider } from "./components/AuthContext"; // Import the AuthProvider
 
 function App() {
   return (
